@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Striped Content and Media Block
- * Plugin URI: https://github.com/ahmadawais/create-guten-block/
+ * Plugin URI: https://github.com/richardmscott/striped-content-media-block/
  * Description: Striped Content and Media Block - a more flexible, user friendly content and media block
  * Author: Richard Scott
  * Author URI: https://rscottdesign.co.uk
