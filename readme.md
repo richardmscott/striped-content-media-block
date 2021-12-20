@@ -4,7 +4,11 @@ This is code for a custom content and media block. This allows you to have a two
 
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
 
-Below you will find some information on how to run scripts.
+## Please note
+
+This is tightly integrated into themes that I am working on so this won't 'just work' on your site as there will be styling information missing for now.
+
+## How to run scripts
 
 >You can find the most recent version of this guide [here](https://github.com/ahmadawais/create-guten-block).
 
